@@ -1,2 +1,9 @@
-# licenses
-Licenses used by our product
+# Licenses used by Revizto products
+
+[Windows](Windows)
+
+[Macos](Mac)
+
+[iOS](iOS)
+
+[Android](Android)
