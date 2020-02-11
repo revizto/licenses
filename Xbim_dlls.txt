@@ -1,0 +1,10 @@
+Xbim.Common.dll
+Xbim.Geometry.Engine.Interop.dll
+Xbim.Geometry.Engine64.dll
+Xbim.Ifc.Extensions.dll
+Xbim.Ifc2x3.dll
+Xbim.IO.dll
+Xbim.ModelGeometry.Scene.dll
+Xbim.Tessellator.dll 
+were built from the original unmodified source code taken from https://xbim.codeplex.com. These DLLs are being distributed under Common Development and Distribution License (CDDL).
+Full text of this license can be found in "Common Development and Distribution License.txt" file which is stored in "doc" folder.
